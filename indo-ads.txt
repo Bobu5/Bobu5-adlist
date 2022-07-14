@@ -361,3 +361,12 @@
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 lenzmx.com
 0.0.0.0 track.bruceleadx2.com
+
+#
+# Block iklan pada website film bajakan
+
+0.0.0.0 i0.wp.com
+0.0.0.0 img.teman.stream
+0.0.0.0 img.indxxi.xyz
+0.0.0.0 cdn2.mpx21.com
+0.0.0.0 s1.indexmovies.xyz
